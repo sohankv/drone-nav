@@ -1,4 +1,4 @@
-# initialization:
+# Initialisation:
 # Load processed data
 graph_3d = load_processed_graph('nyc_graph_3d.pkl')
 buildings = load_buildings('nyc_buildings.geojson')
